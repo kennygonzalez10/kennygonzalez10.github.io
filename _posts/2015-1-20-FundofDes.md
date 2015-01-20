@@ -9,4 +9,4 @@ Design is just another word that has the equivalent meaning as "planning." To ha
 * Doing
 
 
-[Good Desing](http://heyhush.com/wp-content/uploads/2014/03/Good-Design.jpg "Good Design")
+[Good Design](http://heyhush.com/wp-content/uploads/2014/03/Good-Design.jpg "Good Design")
