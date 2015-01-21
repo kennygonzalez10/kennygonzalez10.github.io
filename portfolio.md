@@ -9,3 +9,5 @@ layout: page
 [Project 1](http://kennygonzalez10.github.io/project-1)
 
 [Project 2](http://kennygonzalez10.github.io/project-2)
+
+[Project 3](http://kennygonzalez10.github.io/project-3)
