@@ -4,4 +4,4 @@ layout: page
 
 #My Portfolio
 
-### Graphic and Web
+### Graphic | Web | Print
