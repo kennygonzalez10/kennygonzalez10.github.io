@@ -1,0 +1,6 @@
+---
+layout: post
+title: Web Copy Blueprint
+---
+
+Before starting your web copy there are five questions you need to answer that will serve as a blueprint to sell or achieve your objective on your website. First question; **What is the problem?** To every problem there's a solution so your job here as a web copywriter is to identify the problem and inform the consumer that they have a problem. Second question; **Why hasn't the problem been solved?** This question digs deep into the history of the target audience problem and try to figure out why they are having the problem. Third question; **What is possible?** This is where you inform the target audience about the possibilities that they can have if they try your product or service. You must not keep it short and simple you must make them visualize the possibilities in a vivid elaborated fashion. Fourth question; **What is different now?** This is the moment where you explain your product and services to your customer and tell them how you are different from your competitors and how your product or service will eliminate the problem. Last question; **What should you do now?** After you've answer all the question this is the part where you get the target audience to do what your main objective is, which can consist of buying the product or service, signing up, registering, or sharing.
