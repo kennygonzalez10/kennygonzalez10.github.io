@@ -8,13 +8,16 @@ about $300 to $400. What I offer as a freelancer with a small group of dedicated
 
 <table style="width:100%">
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
+    <td>Design Solution</td>
+    <td>Price for Basic</td> 
+    <td>$175-$200</td>
+    <td>Price for Prime</td>
+    <td>$300-$400</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
+    <td>Us</td>
+    <td>Price for Basic</td>
+    <td>$100</td>
+    <td>Price fro Prime</td>
   </tr>
-</table>
+  
