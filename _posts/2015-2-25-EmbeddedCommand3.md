@@ -3,4 +3,4 @@ layout: post
 title: Embedded Commands 3
 ---
 
-After seeing all the review post on my blog you will want to post your work to.
+After reading my articles you would probably want to check out my portfolio and see my work.
