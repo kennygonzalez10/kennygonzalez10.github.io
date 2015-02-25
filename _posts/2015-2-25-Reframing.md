@@ -8,5 +8,5 @@ about $300 to $400. What I offer as a freelancer with a small group of dedicated
 
 | Design Solution|Prices         |Us       |Prices|
 | -------------  |:-------------:| ------- |-----:|
-|Basic           |$175-$200      |Basic    |$175  |
-|Prime           |$300-$400      |Prime    |$200  |
+|Basic           |$175-$200      |Basic    |$100  |
+|Prime           |$300-$400      |Prime    |$250  |
