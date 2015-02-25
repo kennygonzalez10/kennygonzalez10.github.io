@@ -9,8 +9,8 @@ about $300 to $400. What I offer as a freelancer with a small group of dedicated
 
 <table style="width:100%">
   <tr>
-    <td>Design Solution</td>
-    <td>Price for Basic</td> 
+    <th>Design Solution</th>
+    <th>Price for Basic</th> 
     <td>$175-$200</td>
     <td>Price for Prime</td>
     <td>$300-$400</td>
