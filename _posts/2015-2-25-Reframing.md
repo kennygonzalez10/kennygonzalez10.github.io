@@ -15,11 +15,11 @@ about $300 to $400. What I offer as a freelancer with a small group of dedicated
     <td>Price for Prime</td>
     <td>$300-$400</td>
   </tr>
-  <tr>
-    <td>Us</td>
-    <td>Price for Basic</td>
-    <td>$100</td>
-    <td>Price for Prime</td>
-    <td>$250</td>
-  </tr>
+   <tr>
+     <td>Us</td>
+     <td>Price for Basic</td>
+     <td>$100</td>
+     <td>Price for Prime</td>
+     <td>$250</td>
+   </tr>
   </table>
