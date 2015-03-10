@@ -20,7 +20,7 @@ title: Buyer's Profile 2
 * Active
 * Expressive hand gestures
 
-<h2>Goals<h2>
+<h2>Goals</h2>
 * Graduate with a double major in Graphic design and Advertising
 * Get another degree in Web Design
 
