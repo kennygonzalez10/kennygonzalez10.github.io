@@ -5,7 +5,7 @@ title: Buyers Profile 1
 
 <h1>George</h1>
 
-<h2>Backgroup</h2>
+<h2>Background</h2>
 * Web designer student at the Art Institute of Miami
 
 <h2>Demographics</h2>
