@@ -1,6 +1,6 @@
 ---
 layout: post
-title:5 Graphics
+title: 5 Graphics
 ---
 ![Graphic1](https://farm8.staticflickr.com/7615/16664115829_c81bce9a89.jpg)
 
