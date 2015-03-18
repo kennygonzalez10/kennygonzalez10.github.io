@@ -15,3 +15,5 @@ layout: page
 [Project 4](http://kennygonzalez10.github.io/project-4)
 
 [Project 5](http://kennygonzalez10.github.io/project-5)
+
+[Project 6](http://kennygonzalez10.github.io/project-6)
