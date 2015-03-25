@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+What's UP!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+I am a web design student currently residing in Miami, Fl and expanding my knowledge of the ever-changing world of the web. Hopefully once I have learn enough to get my foot in the working field I hope to keep learning and expand beyond just web development. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kennygonzalez10@gmail.com](kennygonzalez10@gmail.com)
+
+### Awsome Resources
+[www.codeacademy.com](www.codeacademy.com)
+[https://www.coursera.org/](https://www.coursera.org/)
