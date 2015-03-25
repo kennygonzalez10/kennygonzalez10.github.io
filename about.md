@@ -16,4 +16,5 @@ I am a web design student currently residing in Miami, Fl and expanding my knowl
 
 ### Awsome Resources
 [www.codeacademy.com](www.codeacademy.com)
+
 [https://www.coursera.org/](https://www.coursera.org/)
