@@ -9,11 +9,11 @@ by [JAKOB NIELSEN](http://www.nngroup.com/articles/author/jakob-nielsen/) on Oct
 Topics: [Writing for the Web](http://www.nngroup.com/topic/writing-web/)
 
 
-**Summary: They don't. People rarely read Web pages word by word; instead, they scan the page, picking out individual words and sentences.
+** Summary: They don't. People rarely read Web pages word by word; instead, they scan the page, picking out individual words and sentences.
 
-In research on how people read websites we found that 79 percent of our test users always scanned any new page they came across; only 16 percent read word-by-word. (Update: a newer study found that users read email newsletters even more abruptly than they read websites.)
+In research on how people read websites we found that 79 percent of our test users always scanned any new page they came across; only 16 percent read word-by-word. (Update: a newer study found that users read email newsletters even more abruptly than they read websites.) **
 
-As a result, Web pages have to employ scannable text, using**
+As a result, Web pages have to employ scannable text, using
 
 
 
