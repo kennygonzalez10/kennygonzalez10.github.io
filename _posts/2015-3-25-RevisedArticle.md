@@ -23,7 +23,7 @@ As a result, Web pages have to employ scannable text, using
 * half the word count (or less) than conventional writing
 We found that credibility is important for Web users, since it is unclear who is behind information on the Web and whether a page can be trusted. Credibility can be increased by high-quality graphics, good writing, and use of outbound hypertext links. Links to other sites show that the authors have done their homework and are not afraid to let readers visit other sites.
 
-Users detested "marketese"; the promotional writing style with boastful subjective claims ("hottest ever") that currently is prevalent on the Web. Web users are busy: they want to get the straight facts. Also, credibility suffers when users clearly see that the site exaggerates.
+Users detested *"marketese"*; the promotional writing style with boastful subjective claims ("hottest ever") that currently is prevalent on the Web. Web users are busy: they want to get the straight facts. Also, credibility suffers when users clearly see that the site exaggerates.
 
-Measuring the Effect of Improved Web Writing
+**Measuring the Effect of Improved Web Writing**
 To measure the effect of some of the content guidelines we had identified, we developed five different versions of the same website (same basic information; different wording; same site navigation). We then had users perform the same tasks with the different sites. As shown in the table, measured usability was dramatically higher for the concise version (58% better) and for the scannable version (47% better). And when we combined three ideas for improved writing style into a single site, the result was truly stellar: 124% better usability.
